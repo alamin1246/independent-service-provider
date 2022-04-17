@@ -1,9 +1,9 @@
 .register-form{
     margin: 0 auto;
     width: 50%;
-    /* border: 2px solid lightblue;
-    padding: 20px;
-    margin-top: 10px; */
+    border: 2px solid lightblue;
+    margin-top: 10px;
+    padding: 10px;
 }
 .register-form input:not([type=checkbox]){
     display: block;
@@ -15,3 +15,4 @@
     font-size: 16px;
     margin-bottom: 15px;
 }
+
