@@ -19,14 +19,14 @@ const About = () => {
             </div>
             <div>
                 <h2>Development Skills & Tools</h2>
-                •	Back-end: Node JS, ES5, ES6, ES7 <br />
-                •	Front-end: React JS, Material UI, CSS3, HTML5, Bootstrap. <br />
-                •	 Process Manager: pm2 <br />
-                •	Database: Mongo DB, MySQL, Postman, Firebase, <br />
-                •	Security Practice: Auth2.0, Passport Authentication, Jsonwebtoken <br />
-                •	Tooling & CI: Git, NPM, Yarn, <br />
-                •	 Testing: Unit Testing: Mocha, Chai <br />
-                •	 API Documentation Tools: Postman, curl
+                • Back-end: Node JS, ES5, ES6, ES7 <br />
+                • Front-end: React JS, Material UI, CSS3, HTML5, Bootstrap. <br />
+                • Process Manager: pm2 <br />
+                • Database: Mongo DB, MySQL, Postman, Firebase, <br />
+                • Security Practice: Auth2.0, Passport Authentication, Jsonwebtoken <br />
+                • Tooling & CI: Git, NPM, Yarn, <br />
+                • Testing: Unit Testing: Mocha, Chai <br />
+                • API Documentation Tools: Postman, curl
 
             </div>
         </div>

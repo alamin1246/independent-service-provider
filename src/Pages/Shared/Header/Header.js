@@ -28,7 +28,7 @@ const Header = () => {
                         <Nav>
                             <Nav.Link as={Link} to="/">Home</Nav.Link>
                             <Nav.Link as={Link} to="about">About Me</Nav.Link>
-                            <Nav.Link href="home#services">Services</Nav.Link>
+                            <Nav.Link as={Link} to="services" href="home#services">Services</Nav.Link>
                             <Nav.Link as={Link} to="blogs">Blogs</Nav.Link>
                             {user ?
                                 <button className='btn tn-link text-white text-decoration-none' onClick={handleSignOut}>Sign Out</button>
