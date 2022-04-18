@@ -10,8 +10,6 @@ const Home = () => {
             <div>
                 <h3 className='bg-success text-white'><marquee behavior="" direction="">NEW CUSTOMERS ARE WELCOME AT ANY TIME IN MY Home Food Catering Service.</marquee></h3>
             </div>
-
-
             <Services></Services>
         </>
     );

@@ -4,13 +4,14 @@ import myPic from '../../images/MD. AL AMIN HOSSAIN.PNG'
 const About = () => {
     return (
         <div className='container border border-dark mt-2' >
+            <h1 className='text-center bg-info'>About Me</h1>
             <h2>My Name: MD. AL AMIN HOSSAIN</h2>
             <div className='d-flex border border-success'>
                 <img className='rounded' src={myPic} alt="" />
                 <div className='mx-auto'>
                     <h2 className='text-center text-success'>Goals</h2>
                     <p className='ms-2 text-justify fs-5 '>My goal is to provide customer-centric, result-oriented, cost-effective, innovative, and functional IT solutions to my valued local and global clients. <br /><br />
-                        To become a professional web development,  I must to focus and learn at HTML5, CSS3, Bootstrap,MySQL Development, WordPress, JavaScript, Nodejs, Mongoose, React,MERN Stack,MongoDB.  I should follow the following principles in carrying out my mission: Always following the module, regularly practices more and more, on time submitted assignment tasks.
+                        To become a professional web development,  I have Experience at HTML5, CSS3, Bootstrap,MySQL Development, WordPress, JavaScript, Nodejs, Mongoose, React,MERN Stack,MongoDB.
                         <br /><br />
                         My vision is to expand my web design and software development business around the world by offering my clients customized and effective IT services to help them achieve their goals. My capabilities include the ability to provide high-quality IT services such as web design and development.
                     </p>
